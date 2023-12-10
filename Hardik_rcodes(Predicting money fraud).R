@@ -508,3 +508,6 @@ hoslem_test <- residuals.lrm(Model_Final_logistic, type = "gof")
 # Print the results of the Hosmer-Lemeshow test
 print("Hosmer-Lemeshow Test - Test Data:")
 print(hoslem_test)
+
+
+# End of Coding
